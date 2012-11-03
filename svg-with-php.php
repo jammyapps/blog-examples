@@ -4,8 +4,8 @@
 	 * A PHP SVG-generating example: drawing a circle in SVG
 	 * @package BlogExamples
 	 * @author Matt Ashrafi
-	 * @link http://blog.matthewhashrafi.com/
-	 * @version 1.0
+	 * @link : http://blog.matthewashrafi.com/2012/11/03/generating-svg-with-php/
+	 * @version 1.01
 	 */
 
 	/* This whole script will draw a series of shapes within a single SVG structure. The 
